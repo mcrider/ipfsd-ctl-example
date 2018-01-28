@@ -1,0 +1,17 @@
+{
+  "name": "id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "id.js",
+  "scripts": {
+    "start": "node id.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "go-ipfs-dep": "^0.4.13",
+    "ipfs": "^0.27.7",
+    "ipfsd-ctl": "^0.27.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
